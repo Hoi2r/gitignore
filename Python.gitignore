@@ -169,3 +169,32 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# panel
+backup/
+BTPanel/static
+BTPanel/templates
+config/
+cache/
+data/
+logs/
+package/
+rewrite/
+ssl/
+temp/
+tmp/
+vhost/
+msg/
+
+*.html
+*.css
+*.js
+
+*.ttf
+*.png
+*.docx
+
+*.jar
+*.war
+*.zip
